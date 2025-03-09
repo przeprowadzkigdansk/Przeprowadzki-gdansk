@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Profesjonalne przeprowadzki w Gdańsku i Trójmieście. Szybko, bezpiecznie i w konkurencyjnych cenach.">
+    <title>Gdańsk Przeprowadzki - Profesjonalne Usługi Transportowe</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background: #0073e6;
+            color: white;
+            padding: 15px 0;
+            text-align: center;
+        }
+        nav {
+            text-align: center;
+            padding: 10px;
+            background: #005bb5;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 10px 20px;
+            display: inline-block;
+        }
+        nav a:hover {
+            background: #003f7f;
+        }
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            background: white;
+            padding: 20px;
+            box-shadow: 0px 0px 10px #ccc;
+        }
+        h1, h2 {
+            color: #0073e6;
+        }
+        .cta {
+            text-align: center;
+            padding: 20px;
+            background: #0073e6;
+            color: white;
+            font-size: 20px;
+            margin-top: 20px;
+        }
+        .contact {
+            text-align: center;
+            padding: 10px;
+            background: #005bb5;
+            color: white;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background: #003f7f;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Gdańsk Przeprowadzki</h1>
+    <p>Profesjonalne usługi transportowe w Trójmieście</p>
+</header>
+
+<nav>
+    <a href="#">O nas</a>
+    <a href="#">Usługi</a>
+    <a href="#">Cennik</a>
+    <a href="#">Kontakt</a>
+</nav>
+
+<div class="container">
+    <h2>O nas</h2>
+    <p>Jesteśmy firmą specjalizującą się w przeprowadzkach na terenie Gdańska i całego Trójmiasta. Oferujemy kompleksowe usługi transportowe dla klientów indywidualnych i firm.</p>
+
+    <h2>Nasze usługi</h2>
+    <ul>
+        <li>✔ Przeprowadzki mieszkań i domów</li>
+        <li>✔ Przeprowadzki biur i firm</li>
+        <li>✔ Transport mebli i sprzętu AGD</li>
+        <li>✔ Montaż i demontaż mebli</li>
+        <li>✔ Utylizacja starych mebli</li>
+    </ul>
+
+    <h2>Dlaczego my?</h2>
+    <p>✅ Doświadczenie i profesjonalizm <br>
+       ✅ Bezpieczny transport <br>
+       ✅ Konkurencyjne ceny <br>
+       ✅ Dostępność 24/7</p>
+
+    <div class="cta">
+        <p>Zamów przeprowadzkę już teraz! 📞 <strong>+48 123 456 789</strong></p>
+    </div>
+</div>
+
+<div class="contact">
+    <h2>Kontakt</h2>
+    <p>📍 Adres: ul. Przeprowadzkowa 12, Gdańsk</p>
+    <p>📞 Telefon: +48 </p>
+    <p>📧 E-mail: kontakt@gdanskprzeprowadzki.pl</p>
+</div>
+
+<footer>
+    <p>&copy; 2025 Gdańsk Przeprowadzki - Wszelkie prawa zastrzeżone.</p>
+</footer>
+
+</body>
+</html>
